@@ -1,0 +1,6 @@
+[submodule "submodule_DxV_HW"]
+	path = submodule_DxV_HW
+	url = https://github.com/Michael-p-69/DxV_HW-.git
+[submodule "submodule_GenTests"]
+	path = submodule_GenTests
+	url = https://github.com/Michael-p-69/GenTests.git
